@@ -27,8 +27,8 @@ CaseTree (AVL)
 | File | Description |
 |---|---|
 | `CaseInfo.cpp` | Case data model (ID, title, status, date, etc.) |
-| `CaseNode.cpp` | BST node containing CaseInfo + all three linked lists |
-| `CaseTree.cpp` | Binary Search Tree — insert, search, delete, traverse |
+| `CaseNode.cpp` | AVL node containing CaseInfo + all three linked lists |
+| `CaseTree.cpp` | AVL Tree — insert, search, delete, traverse |
 | `CaseTrackingSystem.cpp` | Main driver — menu, user interaction, system flow |
 | `EvidenceNodeClass.cpp` | Node definition for evidence linked list |
 | `EvidenceListClass.cpp` | Linked list operations for evidence |
